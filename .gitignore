@@ -4,8 +4,7 @@
 # build
 [Oo]bj/
 [Bb]in/
-packages/*
-!packages/repositories.config
+packages/
 TestResults/
 
 # globs
